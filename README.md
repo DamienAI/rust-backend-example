@@ -19,16 +19,14 @@ In order to build and run the images enter the following command in a terminal:
  
 ## Provided endpoints
 
-Some simple endpoints are provided:
+Some simple endpoints are available:
  - [GET] localhost:4000/healthcheck
  - [POST] localhost:4000/api/persons
  - [GET] localhost:4000/api/persons/:person_id
 
 ## Security notes
   
-Even if some security features are provided (like cores, max-age...) there are still some headers that should be set.
-
-Also there is no auth mechanism provided with this backend.
+Even if some security features are enabled (like cross-origin, max-age...) there are still some headers that should be set. Also there is no auth mechanism in place.
 
 ## TODO
 
