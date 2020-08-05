@@ -30,14 +30,14 @@ Even if some security features are enabled (like cross-origin, max-age...) there
 
 ## TODO
 
-[ ] Tests
+- [ ] Tests
 
-[ ] More http headers enforcement, based on helmet js list
+- [ ] More http headers enforcement, based on helmet js list
 
-[ ] Review the serialization of the Object ID
+- [ ] Review the serialization of the Object ID
 
-[ ] OAuth2 auth support
+- [ ] OAuth2 auth support
 
-[ ] Connect to mongo using https
+- [ ] Connect to mongo using https
 
-[ ] Swagger UI serving ?
+- [ ] Swagger UI serving ?
